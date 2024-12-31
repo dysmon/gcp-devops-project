@@ -1,1 +1,4 @@
-# This is a repo for new GCP DevOps project
+# Docker flast application
+
+- This application is written in python
+- It shall be deployed on GKE
